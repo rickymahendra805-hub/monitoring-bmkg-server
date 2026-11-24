@@ -1,0 +1,12 @@
+Temp/
+__pycache__/
+*.pyc
+_arsip_netcdf_lama/
+data/netcdf/
+data/cache/
+*.log
+/git
+assets/map/
+assets/map/
+assets/city/
+assets/hovmoller/

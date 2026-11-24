@@ -1,0 +1,279 @@
+{
+  "sumber": [
+    "data/wilayah.json",
+    "Nominatim OpenStreetMap (dikompilasi manual, 2026-10-28)"
+  ],
+  "catatan": "Koordinat pusat kota untuk penanda peta Pemantauan Kota. Kunci nama mengikuti nama kota pada file gambar di assets/city/.",
+  "kota": [
+    {
+      "nama": "Ambon",
+      "provinsi": "Maluku",
+      "lat": -3.6954,
+      "lng": 128.1814
+    },
+    {
+      "nama": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "lat": -1.2398711,
+      "lng": 116.8593379
+    },
+    {
+      "nama": "Banda Aceh",
+      "provinsi": "Aceh",
+      "lat": 5.5483,
+      "lng": 95.3238
+    },
+    {
+      "nama": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "lat": -5.4292,
+      "lng": 105.261
+    },
+    {
+      "nama": "Bandung",
+      "provinsi": "Jawa Barat",
+      "lat": -6.9175,
+      "lng": 107.6191
+    },
+    {
+      "nama": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "lat": -3.3167,
+      "lng": 114.59
+    },
+    {
+      "nama": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "lat": 1.1030815,
+      "lng": 104.0383696
+    },
+    {
+      "nama": "Bekasi",
+      "provinsi": "Jawa Barat",
+      "lat": -6.2349858,
+      "lng": 106.9945444
+    },
+    {
+      "nama": "Bengkulu",
+      "provinsi": "Bengkulu",
+      "lat": -3.7928,
+      "lng": 102.2608
+    },
+    {
+      "nama": "Bitung",
+      "provinsi": "Sulawesi Utara",
+      "lat": 1.44344,
+      "lng": 125.1940836
+    },
+    {
+      "nama": "Cirebon",
+      "provinsi": "Jawa Barat",
+      "lat": -6.7137044,
+      "lng": 108.5608483
+    },
+    {
+      "nama": "Denpasar",
+      "provinsi": "Bali",
+      "lat": -8.65,
+      "lng": 115.2167
+    },
+    {
+      "nama": "Depok",
+      "provinsi": "Jawa Barat",
+      "lat": -6.40719,
+      "lng": 106.8158371
+    },
+    {
+      "nama": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "lat": 0.5435,
+      "lng": 123.0568
+    },
+    {
+      "nama": "Jakarta",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.1754,
+      "lng": 106.8272
+    },
+    {
+      "nama": "Jambi",
+      "provinsi": "Jambi",
+      "lat": -1.6101,
+      "lng": 103.6131
+    },
+    {
+      "nama": "Jayapura",
+      "provinsi": "Papua",
+      "lat": -2.5916,
+      "lng": 140.669
+    },
+    {
+      "nama": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "lat": -3.9985,
+      "lng": 122.5129
+    },
+    {
+      "nama": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "lat": -10.1772,
+      "lng": 123.607
+    },
+    {
+      "nama": "Magelang",
+      "provinsi": "Jawa Tengah",
+      "lat": -7.4770747,
+      "lng": 110.2182164
+    },
+    {
+      "nama": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "lat": -5.1477,
+      "lng": 119.4327
+    },
+    {
+      "nama": "Malang",
+      "provinsi": "Jawa Timur",
+      "lat": -7.9771308,
+      "lng": 112.6340265
+    },
+    {
+      "nama": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "lat": 1.4748,
+      "lng": 124.8421
+    },
+    {
+      "nama": "Manokwari",
+      "provinsi": "Papua Barat",
+      "lat": -0.8615,
+      "lng": 134.062
+    },
+    {
+      "nama": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "lat": -8.5833,
+      "lng": 116.1167
+    },
+    {
+      "nama": "Medan",
+      "provinsi": "Sumatera Utara",
+      "lat": 3.5952,
+      "lng": 98.6722
+    },
+    {
+      "nama": "Padang",
+      "provinsi": "Sumatera Barat",
+      "lat": -0.9471,
+      "lng": 100.4172
+    },
+    {
+      "nama": "Palangka Raya",
+      "provinsi": "Kalimantan Tengah",
+      "lat": -2.2096,
+      "lng": 113.9213
+    },
+    {
+      "nama": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "lat": -2.9761,
+      "lng": 104.7754
+    },
+    {
+      "nama": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "lat": -0.9003,
+      "lng": 119.8779
+    },
+    {
+      "nama": "Pekanbaru",
+      "provinsi": "Riau",
+      "lat": 0.5071,
+      "lng": 101.4478
+    },
+    {
+      "nama": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "lat": -0.0263,
+      "lng": 109.3425
+    },
+    {
+      "nama": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "lat": -0.5022,
+      "lng": 117.1536
+    },
+    {
+      "nama": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "lat": -6.9667,
+      "lng": 110.4167
+    },
+    {
+      "nama": "Serang",
+      "provinsi": "Banten",
+      "lat": -6.12,
+      "lng": 106.1503
+    },
+    {
+      "nama": "Sofifi",
+      "provinsi": "Maluku Utara",
+      "lat": 0.7335365,
+      "lng": 127.5659376
+    },
+    {
+      "nama": "Solo",
+      "provinsi": "Jawa Tengah",
+      "lat": -7.5756946,
+      "lng": 110.8362617
+    },
+    {
+      "nama": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "lat": -0.8762,
+      "lng": 131.2558
+    },
+    {
+      "nama": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "lat": -7.2575,
+      "lng": 112.7521
+    },
+    {
+      "nama": "Tangerang",
+      "provinsi": "Banten",
+      "lat": -6.1761924,
+      "lng": 106.6382161
+    },
+    {
+      "nama": "Tanjung Pinang",
+      "provinsi": "Kepulauan Riau",
+      "lat": 0.9168,
+      "lng": 104.4554
+    },
+    {
+      "nama": "Tanjung Selor",
+      "provinsi": "Kalimantan Utara",
+      "lat": 2.8375,
+      "lng": 117.3653
+    },
+    {
+      "nama": "Tarakan",
+      "provinsi": "Kalimantan Utara",
+      "lat": 3.3000169,
+      "lng": 117.6330159
+    },
+    {
+      "nama": "Ternate",
+      "provinsi": "Maluku Utara",
+      "lat": 0.79,
+      "lng": 127.3842
+    },
+    {
+      "nama": "Yogyakarta",
+      "provinsi": "DI Yogyakarta",
+      "lat": -7.7956,
+      "lng": 110.3695
+    }
+  ]
+}

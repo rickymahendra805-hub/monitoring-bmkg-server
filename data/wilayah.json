@@ -1,0 +1,268 @@
+[
+    {
+        "nama": "Banda Aceh",
+        "provinsi": "Aceh",
+        "adm4": "",
+        "lat": 5.5483,
+        "lng": 95.3238
+    },
+    {
+        "nama": "Medan",
+        "provinsi": "Sumatera Utara",
+        "adm4": "",
+        "lat": 3.5952,
+        "lng": 98.6722
+    },
+    {
+        "nama": "Padang",
+        "provinsi": "Sumatera Barat",
+        "adm4": "",
+        "lat": -0.9471,
+        "lng": 100.4172
+    },
+    {
+        "nama": "Pekanbaru",
+        "provinsi": "Riau",
+        "adm4": "",
+        "lat": 0.5071,
+        "lng": 101.4478
+    },
+    {
+        "nama": "Jambi",
+        "provinsi": "Jambi",
+        "adm4": "",
+        "lat": -1.6101,
+        "lng": 103.6131
+    },
+    {
+        "nama": "Palembang",
+        "provinsi": "Sumatera Selatan",
+        "adm4": "",
+        "lat": -2.9761,
+        "lng": 104.7754
+    },
+    {
+        "nama": "Bengkulu",
+        "provinsi": "Bengkulu",
+        "adm4": "",
+        "lat": -3.7928,
+        "lng": 102.2608
+    },
+    {
+        "nama": "Bandar Lampung",
+        "provinsi": "Lampung",
+        "adm4": "",
+        "lat": -5.4292,
+        "lng": 105.2610
+    },
+    {
+        "nama": "Pangkalpinang",
+        "provinsi": "Kepulauan Bangka Belitung",
+        "adm4": "",
+        "lat": -2.1316,
+        "lng": 106.1169
+    },
+    {
+        "nama": "Tanjungpinang",
+        "provinsi": "Kepulauan Riau",
+        "adm4": "",
+        "lat": 0.9168,
+        "lng": 104.4554
+    },
+    {
+        "nama": "Jakarta",
+        "provinsi": "DKI Jakarta",
+        "adm4": "31.71.03.1001",
+        "lat": -6.1754,
+        "lng": 106.8272
+    },
+    {
+        "nama": "Serang",
+        "provinsi": "Banten",
+        "adm4": "",
+        "lat": -6.1200,
+        "lng": 106.1503
+    },
+    {
+        "nama": "Bandung",
+        "provinsi": "Jawa Barat",
+        "adm4": "",
+        "lat": -6.9175,
+        "lng": 107.6191
+    },
+    {
+        "nama": "Semarang",
+        "provinsi": "Jawa Tengah",
+        "adm4": "",
+        "lat": -6.9667,
+        "lng": 110.4167
+    },
+    {
+        "nama": "Yogyakarta",
+        "provinsi": "DI Yogyakarta",
+        "adm4": "",
+        "lat": -7.7956,
+        "lng": 110.3695
+    },
+    {
+        "nama": "Surabaya",
+        "provinsi": "Jawa Timur",
+        "adm4": "",
+        "lat": -7.2575,
+        "lng": 112.7521
+    },
+    {
+        "nama": "Denpasar",
+        "provinsi": "Bali",
+        "adm4": "",
+        "lat": -8.6500,
+        "lng": 115.2167
+    },
+    {
+        "nama": "Mataram",
+        "provinsi": "Nusa Tenggara Barat",
+        "adm4": "",
+        "lat": -8.5833,
+        "lng": 116.1167
+    },
+    {
+        "nama": "Kupang",
+        "provinsi": "Nusa Tenggara Timur",
+        "adm4": "",
+        "lat": -10.1772,
+        "lng": 123.6070
+    },
+    {
+        "nama": "Pontianak",
+        "provinsi": "Kalimantan Barat",
+        "adm4": "",
+        "lat": -0.0263,
+        "lng": 109.3425
+    },
+    {
+        "nama": "Palangkaraya",
+        "provinsi": "Kalimantan Tengah",
+        "adm4": "",
+        "lat": -2.2096,
+        "lng": 113.9213
+    },
+    {
+        "nama": "Banjarmasin",
+        "provinsi": "Kalimantan Selatan",
+        "adm4": "",
+        "lat": -3.3167,
+        "lng": 114.5900
+    },
+    {
+        "nama": "Samarinda",
+        "provinsi": "Kalimantan Timur",
+        "adm4": "",
+        "lat": -0.5022,
+        "lng": 117.1536
+    },
+    {
+        "nama": "Tanjung Selor",
+        "provinsi": "Kalimantan Utara",
+        "adm4": "",
+        "lat": 2.8375,
+        "lng": 117.3653
+    },
+    {
+        "nama": "Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "adm4": "",
+        "lat": -5.1477,
+        "lng": 119.4327
+    },
+    {
+        "nama": "Manado",
+        "provinsi": "Sulawesi Utara",
+        "adm4": "",
+        "lat": 1.4748,
+        "lng": 124.8421
+    },
+    {
+        "nama": "Palu",
+        "provinsi": "Sulawesi Tengah",
+        "adm4": "",
+        "lat": -0.9003,
+        "lng": 119.8779
+    },
+    {
+        "nama": "Kendari",
+        "provinsi": "Sulawesi Tenggara",
+        "adm4": "",
+        "lat": -3.9985,
+        "lng": 122.5129
+    },
+    {
+        "nama": "Gorontalo",
+        "provinsi": "Gorontalo",
+        "adm4": "",
+        "lat": 0.5435,
+        "lng": 123.0568
+    },
+    {
+        "nama": "Mamuju",
+        "provinsi": "Sulawesi Barat",
+        "adm4": "",
+        "lat": -2.6748,
+        "lng": 118.8860
+    },
+    {
+        "nama": "Ambon",
+        "provinsi": "Maluku",
+        "adm4": "",
+        "lat": -3.6954,
+        "lng": 128.1814
+    },
+    {
+        "nama": "Ternate",
+        "provinsi": "Maluku Utara",
+        "adm4": "",
+        "lat": 0.7900,
+        "lng": 127.3842
+    },
+    {
+        "nama": "Manokwari",
+        "provinsi": "Papua Barat",
+        "adm4": "",
+        "lat": -0.8615,
+        "lng": 134.0620
+    },
+    {
+        "nama": "Sorong",
+        "provinsi": "Papua Barat Daya",
+        "adm4": "",
+        "lat": -0.8762,
+        "lng": 131.2558
+    },
+    {
+        "nama": "Nabire",
+        "provinsi": "Papua Tengah",
+        "adm4": "",
+        "lat": -3.3667,
+        "lng": 135.4833
+    },
+    {
+        "nama": "Wamena",
+        "provinsi": "Papua Pegunungan",
+        "adm4": "",
+        "lat": -4.0955,
+        "lng": 138.9453
+    },
+    {
+        "nama": "Merauke",
+        "provinsi": "Papua Selatan",
+        "adm4": "",
+        "lat": -8.4932,
+        "lng": 140.4018
+    },
+    {
+        "nama": "Jayapura",
+        "provinsi": "Papua",
+        "adm4": "",
+        "lat": -2.5916,
+        "lng": 140.6690
+    }
+]
