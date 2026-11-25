@@ -582,11 +582,11 @@ button, a { -webkit-tap-highlight-color: transparent; }
 /* ================ KONTEN UTAMA ================ */
 
 .main {
-    width: min(1600px,100%);
+    width: min(1500px,100%);
     margin: 0 auto;
 }
 
-.content { padding: 30px 4% 45px; }
+.content { padding: 30px 4% 55px; }
 
 .hero {
     position: relative;
@@ -1252,7 +1252,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
     }
 }
 </style>
-    <link rel="stylesheet" href="assets/css/topbar.css?v=3">
+    <link rel="stylesheet" href="assets/css/topbar.css?v=4">
 </head>
 
 <body>

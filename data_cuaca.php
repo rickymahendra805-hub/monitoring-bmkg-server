@@ -186,7 +186,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button,a{-webkit-
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
 @media print{body{color:#172033!important;background:#fff!important}.search-form,.pagination{display:none!important}.main{width:100%;padding:0}.page-hero,.stat-card,.panel,.info-card{color:#172033!important;background:#fff!important;box-shadow:none!important;border:1px solid #ddd!important;break-inside:avoid}.page-hero h1,.page-hero p,.stat-value,.section-heading h2,.info-card strong{color:#172033!important}.table-scroll{overflow:visible}table{min-width:0}th,td{padding:7px;font-size:9px;color:#172033!important}}
 </style>
-    <link rel="stylesheet" href="assets/css/topbar.css?v=3">
+    <link rel="stylesheet" href="assets/css/topbar.css?v=4">
 </head>
 <body>
 

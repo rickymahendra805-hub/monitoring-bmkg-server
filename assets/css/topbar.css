@@ -185,23 +185,10 @@
 
 /* ================ RESPONSIVE ================ */
 
-@media (max-width: 1250px) {
-    .topbar {
-        gap: 15px;
-        padding-left: 2.5%;
-        padding-right: 2.5%;
-    }
-
-    .brand h2 {
-        font-size: 17px;
-    }
-
-    .nav-link,
-    .nav-dropdown summary {
-        padding: 10px 9px;
-        font-size: 11px;
-    }
-}
+/* Ukuran header dijaga tetap sama seperti dashboard di seluruh rentang
+ * desktop; tidak menyusut bertahap lagi. Baru di <=1000px menu lipat ke
+ * hamburger. Dulu ada blok max-width:1250px yang mengecilkan judul & menu,
+ * jadi header terasa "beda ukuran" antar halaman tergantung lebar jendela. */
 
 @media (max-width: 1000px) {
     .topbar {

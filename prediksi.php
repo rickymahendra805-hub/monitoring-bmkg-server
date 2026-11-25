@@ -574,7 +574,7 @@ body{margin:0;background:radial-gradient(ellipse at top right,#f5f9fd,transparen
 
 a{color:inherit;text-decoration:none}
 
-.container{max-width:1500px;margin:auto;padding:28px 22px 45px}
+.container{width:min(1500px,100%);margin:0 auto;padding:30px 4% 55px}
 
 .eyebrow{color:var(--cyan);font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase}
 
@@ -688,7 +688,7 @@ footer a{color:var(--cyan)}
 
 </style>
 
-    <link rel="stylesheet" href="assets/css/topbar.css?v=3">
+    <link rel="stylesheet" href="assets/css/topbar.css?v=4">
 </head>
 
 <body>

@@ -1247,9 +1247,9 @@ $currentPage = basename(
         }
 
         .main {
-            max-width: 1500px;
+            width: min(1500px, 100%);
             margin: 0 auto;
-            padding: 30px 28px 55px;
+            padding: 30px 4% 55px;
         }
 
         .breadcrumb {
@@ -2495,7 +2495,7 @@ $currentPage = basename(
             line-height: 1.7;
         }
     </style>
-    <link rel="stylesheet" href="assets/css/topbar.css?v=3">
+    <link rel="stylesheet" href="assets/css/topbar.css?v=4">
 </head>
 
 <body>

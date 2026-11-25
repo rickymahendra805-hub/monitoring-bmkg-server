@@ -213,7 +213,7 @@ button{font:inherit;cursor:pointer}
     display:none;width:42px;height:42px;border:1px solid var(--line);
     border-radius:11px;color:#16293f;background:var(--surface)
 }
-.container{width:min(1440px,92%);margin:auto;padding:32px 0 55px}
+.container{width:min(1500px,100%);margin:0 auto;padding:30px 4% 55px}
 .breadcrumb{display:flex;align-items:center;gap:9px;margin-bottom:20px;color:var(--muted);font-size:12px}
 .breadcrumb i{font-size:10px}
 .hero{
@@ -577,7 +577,7 @@ button{font:inherit;cursor:pointer}
     }
 }
 </style>
-    <link rel="stylesheet" href="assets/css/topbar.css?v=3">
+    <link rel="stylesheet" href="assets/css/topbar.css?v=4">
 </head>
 
 <body>

@@ -429,7 +429,7 @@
 
     <link
         rel="stylesheet"
-        href="assets/css/topbar.css?v=3"
+        href="assets/css/topbar.css?v=4"
     >
 
 
@@ -492,7 +492,7 @@
 
         margin: 0 auto;
 
-        padding: 25px 4% 55px;
+        padding: 30px 4% 55px;
 
         animation:
             pageEnter .7s ease;
@@ -529,16 +529,75 @@
 
     .page-head {
 
+        position: relative;
+
+        overflow: hidden;
+
         display: flex;
 
         align-items: center;
 
         justify-content: space-between;
 
+        gap: 20px;
+
         margin-bottom: 22px;
+
+        padding: 34px;
+
+        border: 1px solid rgba(15,101,189,0.200);
+
+        border-radius: 25px;
+
+        background:
+            radial-gradient(circle at 85% 20%, rgba(62,216,239,.18), transparent 25%),
+            linear-gradient(120deg, #f5f9fd, #ffffff 62%, #f5f9fd);
+
+        box-shadow:
+            0 10px 30px
+            rgba(16,42,67,0.075);
 
         animation:
             slideDown .7s ease;
+
+    }
+
+
+    /* Lingkaran dekoratif sama seperti hero dashboard. Isi kepala tetap
+     * di atasnya supaya jam tidak tertutup. */
+
+    .page-head::after {
+
+        content: "";
+
+        position: absolute;
+
+        width: 250px;
+
+        height: 250px;
+
+        right: -85px;
+
+        bottom: -170px;
+
+        border: 1px solid rgba(15,124,189,0.220);
+
+        border-radius: 50%;
+
+        box-shadow:
+            0 0 0 30px rgba(15,124,189,0.035),
+            0 0 0 65px rgba(15,124,189,0.025);
+
+        pointer-events: none;
+
+    }
+
+
+    .page-head > * {
+
+        position: relative;
+
+        z-index: 1;
 
     }
 
@@ -1638,6 +1697,19 @@
         .main {
 
             padding: 10px;
+
+        }
+
+
+        .page-head {
+
+            align-items: flex-start;
+
+            flex-direction: column;
+
+            padding: 23px 20px;
+
+            border-radius: 20px;
 
         }
 
